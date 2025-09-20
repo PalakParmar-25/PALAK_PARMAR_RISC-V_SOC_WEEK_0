@@ -38,12 +38,14 @@ $ make config-gcc
 $ make 
 $ sudo make install
 ```
+![Alt Text](Palak_ysoys.png)
 
 #### <ins>**Iverilog**</ins>
 ```bash
 $ sudo apt-get update
 $ sudo apt-get install iverilog
 ```
+![Alt Text](palak_iverilog.png)
 
 
 #### <ins>**GTKWave**</ins>
@@ -51,4 +53,4 @@ $ sudo apt-get install iverilog
 $ sudo apt-get update
 $ sudo apt install gtkwave
 ```
-
+![Alt Text](gtkwave.png)
